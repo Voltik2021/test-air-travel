@@ -1,0 +1,6 @@
+.list-carrier-control {
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow: ellipsis;
+    
+}

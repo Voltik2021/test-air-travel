@@ -1,0 +1,22 @@
+.flight-card-cities {
+    display: flex;
+    width: 95%;
+    margin: 0 8px;
+    border-bottom: 1px solid rgb(229, 229, 229) ;
+    font-size: 18px;
+    padding: 0 8px;
+    box-sizing: border-box;
+}
+
+.flight-card-cities p {
+    margin: 8px 3px;
+}
+
+.color-control {
+    color:rgb(0, 135, 201);
+   
+}
+
+.arrow::after {
+    content: '\2192';
+}

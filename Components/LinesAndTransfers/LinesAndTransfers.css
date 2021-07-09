@@ -1,0 +1,21 @@
+.flight-card-transfer {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.hr-control {
+    width: 85%;
+    background-color: rgb(162, 162, 162);
+    color: rgb(162, 162, 162);
+    height: 1px;
+    border: none;
+}
+
+.transfer {
+    position: absolute;
+    bottom: -15px;
+    background-color: white;
+    color: rgb(255, 171, 20);
+    padding: 0 10px;
+}

@@ -1,0 +1,28 @@
+
+.font-time-control {
+    font-size: 20px;
+}
+
+.flight-card-time-img {
+    height: 15px;
+    width: 15px;
+    margin-right: 7px;
+}
+
+.flight-card-time {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: 0 19px;
+    padding: 8px 0px;
+}
+
+.color-date {
+    color:rgb(0, 135, 201);
+   
+}
+
+.explanation-time-span{
+    padding-top: 4px;
+    font-size: 18px;
+}

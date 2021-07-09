@@ -1,0 +1,22 @@
+.form-control {
+    font-family: 'Open Sans', sans-serif;    
+    width: 210px;
+    padding: 5px;
+    margin: 10px; 
+    font-size: 14px; 
+    color: rgb(66, 86, 104) 
+}
+
+.list-carrier-price {
+    display: flex;
+}
+
+.list-carrier {
+ width: 70%;
+}
+
+.best-price {
+    margin: 0 0 1px 0;
+    white-space:nowrap;
+}
+
